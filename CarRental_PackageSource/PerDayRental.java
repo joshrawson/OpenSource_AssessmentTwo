@@ -19,7 +19,7 @@ public class PerDayRental {
     
     PerDayRental(int daysRented){
         perDayKm = getDistance.getKilometers();
-        daysRented =  this.daysRented;
+        daysRented = this.daysRented;
     }
     
     double computeDays() {
